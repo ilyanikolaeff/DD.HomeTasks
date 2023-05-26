@@ -1,0 +1,12 @@
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\bin\Debug\net6.0\ReflectionBlock.Library.deps.json
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\bin\Debug\net6.0\ReflectionBlock.Library.dll
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\bin\Debug\net6.0\ReflectionBlock.Library.pdb
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.csproj.AssemblyReference.cache
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.AssemblyInfoInputs.cache
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.AssemblyInfo.cs
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.csproj.CoreCompileInputs.cache
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.dll
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\refint\ReflectionBlock.Library.dll
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ReflectionBlock.Library.pdb
+C:\Users\ilyanikolaeff\source\repos\DD.HomeWorks\ReflectionBlock\ReflectionBlock.Library\obj\Debug\net6.0\ref\ReflectionBlock.Library.dll
