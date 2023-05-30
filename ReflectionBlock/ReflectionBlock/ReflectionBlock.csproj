@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ReflectionBlock.Library\ReflectionBlock.Library.csproj" />
+    <ProjectReference Include="..\ReflectionBlock.WebService\ReflectionBlock.WebService.csproj" />
   </ItemGroup>
 
   <ItemGroup>

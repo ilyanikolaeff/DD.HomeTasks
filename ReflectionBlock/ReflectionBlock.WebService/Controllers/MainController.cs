@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using ReflectionBlock.Library;
+using ReflectionBlock.WebService.Models;
 
 namespace ReflectionBlock.WebService.Controllers
 {
@@ -17,9 +18,10 @@ namespace ReflectionBlock.WebService.Controllers
         }
 
         [HttpGet(Name = "GetDictionary")]
-        public IEnumerable<KeyValuePair<string, int>> Get(string text)
+        public GetDictionaryResponse Get([FromBody]GetDictionaryRequest request)
         {
-            return _textProcessor.ProcessTextToDictionary(text);
+            var result = new GetDictionaryResponse() { Result = _textProcessor.ProcessTextToDictionary(request.Lines) };
+            return result;
         }
     }
 }

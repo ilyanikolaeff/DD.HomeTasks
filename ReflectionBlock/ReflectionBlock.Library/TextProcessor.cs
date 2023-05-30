@@ -31,10 +31,9 @@
         }
 
 
-        public IEnumerable<KeyValuePair<string, int>> ProcessTextToDictionary(string text)
+        public IEnumerable<KeyValuePair<string, int>> ProcessTextToDictionary(IEnumerable<string> lines)
         {
-            var lineParts = text.Split(Environment.NewLine);
-            foreach (var line in lineParts) 
+            foreach (var line in lines) 
             {
                 yield return new KeyValuePair<string, int>(line, line.Length);
             }
